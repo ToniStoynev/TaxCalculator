@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TaxCalculator.Services.Tests
+build_property.ProjectDir = C:\Users\tstoynev\TaxCalculator\TaxCalculator\TaxCalculator.Tests\
